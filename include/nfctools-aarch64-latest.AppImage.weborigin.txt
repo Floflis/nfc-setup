@@ -1,0 +1,1 @@
+https://apps.wakdev.com/ntgui/releases/aarch64/nfctools-aarch64-latest.AppImage

@@ -1,0 +1,312 @@
+This folder: /media/daniella/B/git/Floflis/Floflis 19/FIRSTBUILD/NFC/Untitled Folder/It works - requires restart
+
+  File: ./.folderstamp
+  Size: 113       	Blocks: 1          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544229     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:28:13.804703900 -0300
+Modify: 2023-01-22 15:28:13.813829900 -0300
+Change: 2023-01-22 15:28:13.813829900 -0300
+ Birth: -
+IPFS hash: QmNgkd8SnWGtzriubaSWvh36wqpWCsQRV3R5wgSQPcVGYD
+------------------------------
+  File: ./.folderstamp1
+  Size: 9977      	Blocks: 24         IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 3142073     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-25 00:27:11.476678900 -0300
+Modify: 2022-12-25 00:27:11.374315000 -0300
+Change: 2023-01-22 15:27:35.728086400 -0300
+ Birth: -
+IPFS hash: QmciKFW5qKtLBbURjvJo1QJofkDiLjZb3Z8fsDNgkSPTpB
+------------------------------
+  File: ./.folderstamp2
+  Size: 1416      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 3142097     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-25 14:29:02.331256300 -0300
+Modify: 2022-12-25 00:31:37.900914500 -0300
+Change: 2023-01-22 15:27:39.605264000 -0300
+ Birth: -
+IPFS hash: QmWQLpMnvshBF7BD2WXYVWcSaV4iw6gazg6cP23dtb96Fy
+------------------------------
+  File: ./folderstamp_recursive.sh
+  Size: 2365      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544224     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:28:13.804194500 -0300
+Modify: 2022-11-22 18:45:33.375753300 -0300
+Change: 2023-01-22 15:28:08.466332300 -0300
+ Birth: -
+IPFS hash: QmRmYGZyeoWY4jHLex4didmsviDWE3BDhMjuRicfENGBm2
+------------------------------
+  File: ./include/ACS-Unified-PKG-Lnx-118-P.zip
+  Size: 3184216   	Blocks: 6224       IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 970109      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 14:06:15.191627200 -0300
+Modify: 2022-11-03 20:03:47.915322000 -0300
+Change: 2023-01-22 14:04:01.458379700 -0300
+ Birth: -
+IPFS hash: QmQSHxMXRpogVq8Mb4DJrisRNYMHDumxr35YAnHkC1Wt68
+------------------------------
+  File: ./include/ACS-Unified-PKG-Lnx-118-P.zip.weborigin.txt
+  Size: 82        	Blocks: 1          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544170     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:24:57.977161600 -0300
+Modify: 2023-01-22 15:24:57.977842500 -0300
+Change: 2023-01-22 15:24:58.292553800 -0300
+ Birth: -
+IPFS hash: QmR8rX4BXzpF67kniypgNaeoVaFgqnjpDVmH8o2kWeTD2L
+------------------------------
+  File: ./include/nfctools-aarch64-latest.AppImage
+  Size: 193131696 	Blocks: 377216     IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544192     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:25:43.234247500 -0300
+Modify: 2023-01-22 15:24:33.918340300 -0300
+Change: 2023-01-22 15:25:44.628150500 -0300
+ Birth: -
+IPFS hash: QmdxVYgxrVyxbYtCYno49ceXoEzEHiGk138wEkzELrEZ2Q
+------------------------------
+  File: ./include/nfctools-aarch64-latest.AppImage.weborigin.txt
+  Size: 80        	Blocks: 1          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544168     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:22:47.368331200 -0300
+Modify: 2023-01-22 15:22:47.369642800 -0300
+Change: 2023-01-22 15:22:47.979440900 -0300
+ Birth: -
+IPFS hash: QmUFa5dbLr3b6JEgfooV3xyXvHdCN1DaSCh189c7ovFoVY
+------------------------------
+  File: ./include/nfctools-armhf-latest.AppImage
+  Size: 70611204  	Blocks: 137920     IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544160     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:22:01.962558100 -0300
+Modify: 2023-01-22 15:21:50.754575000 -0300
+Change: 2023-01-22 15:22:02.471681000 -0300
+ Birth: -
+IPFS hash: QmVUVTHA5WbGJtrusRfCnNxNhy3247ahzEi8c759grUGub
+------------------------------
+  File: ./include/nfctools-armhf-latest.AppImage.weborigin.txt
+  Size: 76        	Blocks: 1          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544156     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:21:51.689523200 -0300
+Modify: 2023-01-22 15:21:51.690194900 -0300
+Change: 2023-01-22 15:21:52.028773200 -0300
+ Birth: -
+IPFS hash: Qma2Xc8zrWPWzoVA9e9VuGUS1G1B1Rnp6NCAUtuLanVa2h
+------------------------------
+  File: ./include/nfctools-latest.AppImage
+  Size: 61521896  	Blocks: 120160     IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544152     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:20:57.222658000 -0300
+Modify: 2023-01-22 15:20:28.010704700 -0300
+Change: 2023-01-22 15:20:58.727641200 -0300
+ Birth: -
+IPFS hash: QmaAz2Cc1zPev2S58rokrfDWbztKc6xyYrBC2ERTUjTEDj
+------------------------------
+  File: ./include/nfctools-latest.AppImage.weborigin.txt
+  Size: 70        	Blocks: 1          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544146     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:19:41.064931700 -0300
+Modify: 2023-01-22 15:19:41.066072900 -0300
+Change: 2023-01-22 15:20:38.559349000 -0300
+ Birth: -
+IPFS hash: QmUwJhhTKx7tZ8WXQcmu3bjBPbkb75Ndj2LReoHVppaKvN
+------------------------------
+  File: ./installscript-10.sh
+  Size: 1850      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 3141246     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-25 00:21:41.789547400 -0300
+Modify: 2022-12-25 00:21:27.283686500 -0300
+Change: 2022-12-25 00:21:27.849286900 -0300
+ Birth: -
+IPFS hash: QmTF5vi18G9Jdq9h1ZK7z1oHh2hvwVHA6w1dw2g9SjoEHs
+------------------------------
+  File: ./installscript-11.sh
+  Size: 1850      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 3141658     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-25 00:23:41.677030300 -0300
+Modify: 2022-12-25 00:23:35.964187000 -0300
+Change: 2022-12-25 00:23:36.163869000 -0300
+ Birth: -
+IPFS hash: QmYSxBsKciE2izS6UUCzTeBZ2zbvw6ukUrKvuGztRxBWg5
+------------------------------
+  File: ./installscript-12.sh
+  Size: 1865      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 3142289     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-16 19:13:30.343589200 -0300
+Modify: 2022-12-25 03:35:48.541667200 -0300
+Change: 2022-12-25 03:35:48.881675500 -0300
+ Birth: -
+IPFS hash: QmV16CSWDciiCkJYsAmoAJGRa65W5qGe2vAzEpxhi4FA6S
+------------------------------
+  File: ./installscript-13.sh
+  Size: 1892      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1464401     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 14:03:18.564821800 -0300
+Modify: 2023-01-22 14:02:09.767836400 -0300
+Change: 2023-01-22 14:02:10.011643000 -0300
+ Birth: -
+IPFS hash: QmdZzpXE7LBCTv45XLty2AR5t7NxS8y1HFQbyiEFWxL5zJ
+------------------------------
+  File: ./installscript-14.sh
+  Size: 1908      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1464413     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 14:05:47.517016000 -0300
+Modify: 2023-01-22 14:05:47.507980800 -0300
+Change: 2023-01-22 14:05:47.861763100 -0300
+ Birth: -
+IPFS hash: QmXCG7G3AzqU43NLWutoUonAbmZ64ZceEM2jgxawt34i4c
+------------------------------
+  File: ./installscript-15.sh
+  Size: 2026      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544108     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:14:27.210307600 -0300
+Modify: 2023-01-22 15:13:33.720007900 -0300
+Change: 2023-01-22 15:13:34.043482200 -0300
+ Birth: -
+IPFS hash: QmWj6AK3ePfqySKRkkeqZ1NcUrFW2shgxYuEZiXW3KtKU9
+------------------------------
+  File: ./installscript-16.sh
+  Size: 2014      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544129     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:14:55.865605400 -0300
+Modify: 2023-01-22 15:14:55.861009300 -0300
+Change: 2023-01-22 15:14:56.196066400 -0300
+ Birth: -
+IPFS hash: QmW1ZgAcaeHX1xtLANB9ccrW7BzttRPDGrthxRra48YXhj
+------------------------------
+  File: ./installscript-2.sh
+  Size: 1050      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1976264     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 23:22:46.925321400 -0300
+Modify: 2022-12-24 23:22:20.337008200 -0300
+Change: 2022-12-24 23:22:20.670286300 -0300
+ Birth: -
+IPFS hash: QmRFEPE1fVWNzemB44gSviuaaBw8HHXagRx67S2LJfJQgv
+------------------------------
+  File: ./installscript-3.sh
+  Size: 1115      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1976409     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 23:26:44.863461400 -0300
+Modify: 2022-12-24 23:25:27.136410000 -0300
+Change: 2022-12-24 23:25:27.475518500 -0300
+ Birth: -
+IPFS hash: QmVvngA5E3bwnvC3mSJ4ji1XwfREDZT9FpjkzNWt3E45Aq
+------------------------------
+  File: ./installscript-4.sh
+  Size: 1116      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1976377     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 23:36:48.485159000 -0300
+Modify: 2022-12-24 23:35:40.137579100 -0300
+Change: 2022-12-24 23:35:40.479079700 -0300
+ Birth: -
+IPFS hash: QmY8371CBxwjFUvQsqWqmdYsG39F2gHJatUqrsmXGt8AuM
+------------------------------
+  File: ./installscript-5.sh
+  Size: 1178      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1976385     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 23:39:15.108907700 -0300
+Modify: 2022-12-24 23:37:24.445799500 -0300
+Change: 2022-12-24 23:37:24.798194500 -0300
+ Birth: -
+IPFS hash: QmX8mqVZpGJjXp5SgLirXkuguvDvkDS5jxrhUWxeYFFtC4
+------------------------------
+  File: ./installscript-6.sh
+  Size: 1283      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1976393     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 23:47:57.557018900 -0300
+Modify: 2022-12-24 23:44:31.147402700 -0300
+Change: 2022-12-24 23:44:31.484555300 -0300
+ Birth: -
+IPFS hash: QmZvNYpsQwjCpR7QYQCNVJz3xTPCtDWW81JDkMt9MBoELW
+------------------------------
+  File: ./installscript-7.sh
+  Size: 1299      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 2292702     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 23:58:34.835521900 -0300
+Modify: 2022-12-24 23:56:46.481422200 -0300
+Change: 2022-12-24 23:56:46.828453000 -0300
+ Birth: -
+IPFS hash: QmR4tPQ2WEJgipmJXT7qVwbMBfY4pN7PURDi1GMiyrxuPv
+------------------------------
+  File: ./installscript-8.sh
+  Size: 1805      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 2292706     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-25 00:17:11.440921100 -0300
+Modify: 2022-12-25 00:15:47.380892600 -0300
+Change: 2022-12-25 00:15:47.713581700 -0300
+ Birth: -
+IPFS hash: QmSV63teWvSSbdkxzCNBdhZCyh6BcJXf6LEaVUfqC83GE4
+------------------------------
+  File: ./installscript-9.sh
+  Size: 1808      	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 3140425     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-25 00:18:31.323513300 -0300
+Modify: 2022-12-25 00:18:19.523026800 -0300
+Change: 2022-12-25 00:18:19.983883800 -0300
+ Birth: -
+IPFS hash: QmNd3YZiwdFp9q8KxC3YqkXeFoYeLrFM96aPa8BAapQc6g
+------------------------------
+  File: ./installscript.sh
+  Size: 979       	Blocks: 8          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1976256     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 23:21:41.343684300 -0300
+Modify: 2022-12-24 23:21:18.297418200 -0300
+Change: 2022-12-24 23:21:18.671128800 -0300
+ Birth: -
+IPFS hash: QmdQhcGoefLJMoA9wP4wjzazU5BuLXVMJGgFUuTMEhebes
+------------------------------
+  File: ./nfctools.svg
+  Size: 4103      	Blocks: 16         IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544098     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-22 15:07:02.872039000 -0300
+Modify: 2023-01-22 15:06:22.358834300 -0300
+Change: 2023-01-22 15:14:12.353270400 -0300
+ Birth: -
+IPFS hash: QmezN1JATdhYrzFmEWXo9JkJBNBBQvBAjDxvtof3Bz4Hx3
+------------------------------
+  File: ./other/nfctools-old
+  Size: 40        	Blocks: 1          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544200     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-07 19:28:44.483723800 -0300
+Modify: 2022-12-02 13:15:44.005768800 -0300
+Change: 2023-01-22 15:26:52.183995500 -0300
+ Birth: -
+IPFS hash: QmNzcZtunyBxsX6eoRQZMsyyXfdQKJcfemLKr6wWFaCDVt
+------------------------------
+  File: ./other/Tutorial.txt
+  Size: 132       	Blocks: 1          IO Block: 4096   regular file
+Device: 804h/2052d	Inode: 1544207     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-07 19:32:28.497722900 -0300
+Modify: 2022-11-03 23:06:37.928829000 -0300
+Change: 2023-01-22 15:26:52.192126800 -0300
+ Birth: -
+IPFS hash: QmUceTwURye7yWWyT5GxsmxUBMF4p1W1NyAYa9oV66NHaY
+------------------------------

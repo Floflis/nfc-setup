@@ -1,0 +1,32 @@
+This folder: /media/daniella/B/git/Floflis/Floflis 19/builds Testing features/NFC/Untitled Folder
+
+  File: ./folderstamp_nonrecursive.sh
+  Size: 584       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 3142096     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-25 00:31:37.255694400 -0300
+Modify: 2022-12-17 18:01:45.523121100 -0300
+Change: 2022-12-25 00:31:33.203661000 -0300
+ Birth: -
+IPFS hash: QmWqmoFk1vfRwEQtPHUofPayefPAA7gH1qRaaWYYdqzZSu
+------------------------------
+  File: ./It works - requires restart
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 844h/2116d	Inode: 970108      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-25 00:31:02.194378300 -0300
+Modify: 2022-12-25 00:30:07.847393800 -0300
+Change: 2022-12-25 00:30:07.847393800 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./pcsc-lite-1.9.9.tar.bz2
+  Size: 789914    	Blocks: 1544       IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 970107      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2022-12-24 22:46:44.265753400 -0300
+Modify: 2022-11-03 20:34:47.343141000 -0300
+Change: 2022-11-20 13:04:53.000776900 -0300
+ Birth: -
+IPFS hash: QmW22zben1puE51dJyJtamybz8qwStXrAvpaWqFyHN48zo
+------------------------------
